@@ -49,13 +49,8 @@ ganti_ = getData('data/_replace_.txt')
 if len(ganti_)!= len(kata_):
     load_data()
     print("Load data ulang")
-    f=open('data/_kata_.txt')
-    f=f.read()
-    kata_ = f.split()
-
-    f=open('data/_replace_.txt')
-    f=f.read()
-    ganti_ = f.split()
+    kata_ = getData('data/_kata_.txt')
+    ganti_ = getData('data/_replace_.txt')
     print("Load data berhasil")
     
 def simJaro(kata1,kata2):
