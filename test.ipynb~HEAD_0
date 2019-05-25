@@ -11,31 +11,22 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [
     {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "<<last use>>\n",
-      "<<last use>>\n",
-      "similarity => perihh | pernahh => 0.85\n"
-     ]
-    },
-    {
      "data": {
       "text/plain": [
-       "'dijamin tertawa perihh'"
+       "'yang'"
       ]
      },
-     "execution_count": 3,
+     "execution_count": 2,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "ct.norm_typo(\"dijaminn ngakak perihh\")"
+    "ct.norm_typo(\"yanggggg\")"
    ]
   }
  ],
@@ -55,7 +46,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.7.3"
+   "version": "3.6.8"
   }
  },
  "nbformat": 4,
