@@ -70,3 +70,14 @@ pendidikan
 iya
 ribu
 nan
+3000 f
+30 k 1000
+30 k 1000 like
+30 k 
+30 ribu
+33 tahun
+35 ribu
+35 ribu 4000
+3 juta
+3juta
+3 tahun
