@@ -32,7 +32,18 @@ def load_data():
         for item in replace:
             f.write("%s\n" % item)
 #load_data()
-
+def reduksi_huruf(kata):
+#kata = 'siiiiiiapaaaa'
+    nkata  = list()
+    for i,k in enumerate(kata):
+        if i>2:
+            if kata[i]== kata[i-1] and kata[i] == kata[i-2]:
+                continue
+            else:
+                nkata.append(k)
+        else:
+            nkata.append(k)
+    return "".join(nkata)
 
 def getData(alamat):
     lineList = list()
@@ -129,17 +140,19 @@ def norm_typo(komentar, jm=3):
     if type(komentar)!=list:
         komentar_split = komentar.split()
     for indx, kt in enumerate(komentar_split):
+        kttr = kt
+        kt = reduksi_huruf(kt)
         kata_ = new_corpus_k(kt, jm)
         ganti_ = new_corpus_r(kt, jm)
         cek = True
-        if kt in kbbi:
+        if kttr in kbbi:
             #print("<<kbbi>>")
             continue
-        elif kt in last_use_k:
+        elif kt in last_use_k or kttr in last_use_k:
             last_use_k_index = last_use_k.index(kt)
             komentar_split[indx] = last_use_r[last_use_k_index]
             #print("<<last use>>")
-        elif kt in kata_:
+        elif kt in kata_ or kttr in kata_:
             komentar_split[indx]= "" if ganti_[kata_.index(kt)] == 'nan' else ganti_[kata_.index(kt)]
             last_use_k.append(kt)
             last_use_r.append(komentar_split[indx])
