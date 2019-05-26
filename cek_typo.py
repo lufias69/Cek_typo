@@ -138,17 +138,22 @@ def new_corpus_r(kata, jm):
 def save_gdiganti():
     with open(dir_path + '/' +"data/g_diganti.txt", "w") as f:
         for s in g_diganti:
-            f.write(str(s) +"\n")
-            
+            f.write(str(s) +"\n")     
     with open(dir_path + '/' +"data/last_use_k.txt", "w") as f:
         for s in last_use_k:
             f.write(str(s) +"\n")
     with open(dir_path + '/' +"data/last_use_r.txt", "w") as f:
         for s in last_use_r:
             f.write(str(s) +"\n")
+    with open(dir_path + '/' +"data/last_use_s.txt", "w") as f:
+        for s in last_use_s:
+            f.write(str(s) +"\n")
+
 
 last_use_k = getData('data/last_use_k.txt')
 last_use_r = getData('data/last_use_r.txt')
+last_use_s = getData('data/last_use_s.txt')
+
 kbbi = getData('data/kata_kbbi_new.txt')
 g_diganti = getData('data/g_diganti.txt')
 
@@ -184,6 +189,7 @@ def norm_typo(komentar, jm=3):
                     #print("similarity-> "+kt+"|"+sl+" ->", simJaro(kt, sl))
                     last_use_k.append(kt)
                     last_use_r.append(komentar_split[indx])
+                    last_use_s.append(simJaro(kt, sl))
                     cek = False
                     break
             if max(list_kemiripan)>=.90 and cek== True:
@@ -192,9 +198,12 @@ def norm_typo(komentar, jm=3):
                 komentar_split[indx]= "" if ganti_[list_kemiripan.index(max(list_kemiripan))] == 'nan' else ganti_[list_kemiripan.index(max(list_kemiripan))] #'Yes' if fruit == 'Apple' else 'No'
                 last_use_k.append(kt)
                 last_use_r.append(komentar_split[indx])
+                last_use_s.append(max(list_kemiripan))
+                
             else:
                 if cek == True:
-                    g_diganti.append(kt)
+                    if kt not in g_diganti:
+                        g_diganti.append(kt)
                     pass
                     #print("similarity =>",kt,"|",kata_[list_kemiripan.index(max(list_kemiripan))],"=>", str(max(list_kemiripan)))
     ret = re.sub(' +', ' '," ".join(komentar_split))
