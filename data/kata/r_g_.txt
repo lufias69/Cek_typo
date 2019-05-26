@@ -1,69 +1,6 @@
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
 tidak
 tidak ada
-tidak bisa
-ikut
-tidak jelas
-tidak
-tidak bisa pulang kampung
-tidak 
-tidak mau
-andal
-gantipolapikirshare
-tidak apa
-tidak percaya
-pukul
-gagap teknologi
-gara
-gerai
-gas
-tidak tau
-tidak usah
-tidak usah
-kerja
-girang
-goblok
-besar
-pukul
-gila
-gemas
-gemas
-kurus
-cantik
-gila
-gitu
-tidak
-bagaimana
-gemas
-bagaimana
-gemas
-goblok
-goblok
-berkelahi
-berkelahi
-governor
-tidak apa
-begitu
-begitu
-gubernur
-gubernur
-gubernur
-good
-gitaris
-goblok
-tidak usah
-tidak usah
-saya
-tidak
+nan
 tidak akan
 galuh
 gampang
@@ -75,6 +12,7 @@ nan
 tidak salah
 tidak salah
 tidak sabar
+tidak bisa
 gabung
 gaji buta
 tidak percaya
@@ -88,11 +26,15 @@ gadis
 tidak dapat
 gaduh
 nan
+nan
+nan
+nan
 guys
 produk
 ayo
 tidak 
 guys
+nan
 tidak
 gaya
 ganggu
@@ -100,19 +42,24 @@ nan
 nan
 nan
 guys
+ikut
 guys
 guys
 guys
 gajah
+tidak jelas
 tidak jelas
 ganjal
 gajian
 gajian
 gajian
 gaji
+tidak
 nan
 tidak akan
+tidak bisa pulang kampung
 tidak jelas
+tidak 
 tidak
 tidak kaya
 tidak
@@ -140,6 +87,7 @@ gali
 galau
 galau
 galau
+tidak mau
 game
 tidak menang
 gamer
@@ -149,10 +97,12 @@ gamis
 nan
 nan
 gampang
+nan
 tidak tahan
 ganas
 nan
 ganda
+andal
 ada
 banget
 gang
@@ -160,13 +110,20 @@ ganjaran
 ganjaran
 nan
 nan
+gantipolapikirshare
 ganti
 ganti
+tidak apa
 tidak apa
 apa
 tidak peka
+tidak percaya
+pukul
 tidak apa
+gagap teknologi
 tidak punya
+gara
+gerai
 garansi
 garansi
 kerjakan
@@ -189,6 +146,7 @@ tidak
 tidak
 tidak
 ayo
+gas
 ayo
 tidak
 ayo
@@ -196,6 +154,7 @@ ayo
 ayo
 tidak 
 gatal
+tidak tau
 tidak tau
 gatal
 tidak 
@@ -207,20 +166,27 @@ at
 at
 gaul
 tidak usah
+tidak usah
+tidak usah
 gawat
+kerja
 kerja
 gaya
 gaya
 gaya
+girang
 guys
 gaya
 guys
 nan
 goblok
+goblok
+besar
 nan
 geblek
 geblek
 geblek
+pukul
 besar
 besar
 besar
@@ -239,10 +205,12 @@ nan
 nan
 nan
 nan
+nan
 guys
 gila
 gelap
 gelas
+gila
 gila
 gila
 gelas
@@ -276,7 +244,9 @@ gemas
 gemas
 gemas
 gemas
+gemas
 gemes
+gemas
 gemas
 gemas
 gemas
@@ -337,12 +307,15 @@ gerah
 gerai
 gratis
 greget
+kurus
 gerai
 geri
 nan
 nan
+nan
 gatal
 get
+cantik
 cantik
 cantik
 gemas
@@ -366,6 +339,7 @@ gigi
 gigi
 gigi
 masyaallah
+nan
 begini
 lagi
 gigi
@@ -379,6 +353,7 @@ begini
 guys
 gita
 begitu
+gila
 gila
 gila
 gila
@@ -452,9 +427,11 @@ gitu
 gitu
 gitu
 gitu
+gitu
 give away
 nan
 gizi
+tidak
 tidak
 tidak
 tidak apa
@@ -477,6 +454,8 @@ glowing
 glowing
 glowing
 nan
+bagaimana
+gemas
 gemas
 gemas
 gemes
@@ -484,6 +463,8 @@ gemas
 gemas
 gemuk
 bagaimana
+bagaimana
+gemas
 gemas
 gendut
 begini
@@ -497,6 +478,8 @@ goal
 goblin
 goblok
 goblin
+goblok
+goblok
 goblok
 goblok
 cek
@@ -519,6 +502,8 @@ gombal
 gombal
 gombal
 nan
+berkelahi
+berkelahi
 google
 gokil
 gokil
@@ -529,11 +514,13 @@ nan
 goreng
 goreng
 tidak usah
+governor
 gowes
 goyang
 goyang
 goyah
 goblok
+tidak apa
 gerah
 grey
 grab
@@ -565,7 +552,9 @@ gratik
 grogi
 grogi
 gratis
+begitu
 nan
+begitu
 tidak
 saya
 ganteng
@@ -576,8 +565,12 @@ galau
 nan
 saya
 saya
+gubernur
+gubernur
+gubernur
 nan
 nan
+good
 gudang
 saya
 besar
@@ -590,6 +583,7 @@ saya
 gemas
 guest
 nan
+gitaris
 gula
 guls
 glowing
@@ -599,13 +593,17 @@ gunakan
 gunakan
 gunakan
 gunakan
+goblok
 garansi
 guru
+tidak usah
 sudah
 gus fahmi
+tidak usah
 guslow
 gusi
 guys
+nan
 saya
 gemuk
 nan
@@ -621,7 +619,9 @@ guys
 guys
 tertawa
 guys
+saya
 gemas
+tidak
 nan
 gemas
 tidak

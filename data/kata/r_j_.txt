@@ -1,74 +1,4 @@
 nan
-nan
-nan
-nan
-nan
-jawa barat
-jawa barat juara
-jawa barat juara lahir batin
-jadi-jadian
-jadi
-jadi
-jakarta
-jakarta selatan
-jalan-jalan
-jalan
-zaman
-jam proses
-jam
-jangan
-jangan
-jangan
-jangan jatuh kelubang yang sama
-jangka
-jangka 
-tinggi
-jangan
-janji
-katanya
-jatah
-jawa tengah
-jawa timur
-jauh
-jawa tengah
-mencolek
-jadi
-jadi
-jelaskan
-jelek
-jendral
-jendral
-jerih
-juga
-juga
-jangan
-jangan
-jilbab
-jilbabnya
-jakarta
-jokowi
-jokowi 2 periode
-jokowi
-jalan
-jalan
-jalannya
-jam 8
-jendral
-jangan
-jangan
-jogja
-yogyakarta
-jokowi 2 periode
-jokowi 2 priode
-jokowi kalah
-jokowi kalah insyaaallah
-jokowi lagi
-jokowi lagi 2 periode
-jokowi
-juara
-juga
-jawab
-jawab
 jadi
 jadi
 jadi
@@ -85,6 +15,12 @@ jangka
 jangka
 jatah
 jawa barat
+jawa barat juara
+jawa barat juara lahir batin
+jawa barat
+jadi
+jadi-jadian
+jadi
 jadi
 jadi
 jadi
@@ -119,11 +55,16 @@ jajaran
 jakarta
 jakarta
 jaki
+jakarta
+jakarta selatan
 jakun
 jalan
 jalan-jalan
+jalan-jalan
+jalan
 minta
 jamaah
+zaman
 zaman
 zaman
 jambret
@@ -136,7 +77,9 @@ jaminan
 jam murah
 jam
 jamin
+jam proses
 jamur
+jam
 jannah
 jannah
 jangan
@@ -144,10 +87,19 @@ cantik
 janda
 janda
 jangan
+jangan
+jangan
+jangan jatuh kelubang yang sama
+jangan
 jungle
 jangan
+jangka
 janggut
 janggut
+jangka 
+tinggi
+jangan
+janji
 janji
 jannah
 jannah
@@ -159,6 +111,7 @@ jantan
 jantung
 jauh
 jarang
+katanya
 jargon
 jari
 jari
@@ -171,12 +124,16 @@ jada follower
 jasmine
 jasmine
 jatah
+jatah
+jawa tengah
 jati diri
 jati
+jawa timur
 jati
 jatuh
 jatuh
 jatuh
+jauh
 jauh
 jauh
 jauh
@@ -188,13 +145,17 @@ jawab
 jawaban
 jawaban
 jawab
+jawa tengah
+mencolek
 jaya
 jaya
 jaya
 nan
 jazakallah khairan
 jadi
+jadi
 sejuk
+jadi
 jadi
 nan
 kebiasaan
@@ -206,16 +167,21 @@ jerawat
 ojek
 jelas
 jelaskan
+jelaskan
 jelas
 jelas
 jelas
+jelek
 jelek
 jelek
 jelas
 jelek
 jelmaan
+jendral
 kendil
+jendral
 namanya
+nan
 jangan
 jengkol
 nan
@@ -229,12 +195,17 @@ jerawat
 jerawat
 jerawat
 keren
+jerih
 jerman
 jernih
 jerawat
 jerih
 sempurna
 nan
+juga
+juga
+jangan
+jangan
 jangan
 jangan
 jagoan
@@ -272,7 +243,10 @@ gila
 jilbab
 jilbab
 jilbab
+jilbabnya
 jilbab
+jilbab
+nan
 jingga
 nan
 begini
@@ -282,16 +256,27 @@ nan
 nan
 jiwa
 collect
+jakarta
 jokowi
+jokowi 2 periode
+jokowi
+jokowi
+jalan
 jalan
 nan
 nan
 nan
 jelek
+jalan
+jalannya
+jam 8
 zaman
 jannah
 janda
 janda
+jendral
+jangan
+jangan
 jangan
 nan
 nan
@@ -299,14 +284,25 @@ joan
 joddi
 joget
 jogja
+jogja
+yogyakarta
 reseller
 jojo
 joker
+jokowi 2 periode
+jokowi 2 priode
+jokowi kalah
+jokowi kalah insyaaallah
+jokowi lagi
+jokowi lagi 2 periode
+jokowi
 jomblo
 tinggi
 jomblo
 nan
 job
+nan
+nan
 nan
 nan
 nan
@@ -334,7 +330,9 @@ jual murah
 jual peninggi
 jual
 juara
+juara
 puas
+juga
 juga
 juga
 juga
@@ -353,8 +351,10 @@ juga
 collect
 nan
 juara
+jawab
 jawaban
 jawaban
+jawab
 jawaban
 jadi
 jadi

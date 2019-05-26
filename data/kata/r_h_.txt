@@ -11,83 +11,6 @@ nan
 nan
 nan
 nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-hari
-hajatan
-hal
-ham
-hanya
-happy
-harusnya
-hasil
-hasilnya
-hasilnya
-hater
-hati-hati
-ucapkan
-sayang
-happy birthday
-hebat
-hebat
-hebat
-herbal fashion
-herbal store
-hijaber cantik
-hijab muslim sproty
-hijab segi empat minat
-hijab
-hak
-hantu
-hanya
-hoax
-otak
-ingin
-hp
-hari
-hrd
-harapan
-harus
-harusnya
-hubungi
-hutang
-hutang
-ingin
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
  
  
  
@@ -115,6 +38,7 @@ hanya
 hanya
 happy
 harga
+hari
 hari
 harus
 artis
@@ -151,7 +75,10 @@ nan
  
 nan
 nan
+nan
+nan
  
+nan
 nan
 hadiah
 hadiah
@@ -173,9 +100,7 @@ hago
 nan
 nan
 nan
- 
- 
- 
+nan
  
  
  
@@ -189,6 +114,12 @@ nan
  
  
 nan
+nan
+nan
+ 
+ 
+ 
+nan
  
  
  
@@ -205,37 +136,16 @@ nan
  
  
 nan
- 
- 
- 
- 
-nan
-nan
- 
- 
-nan
- 
- 
- 
- 
- 
- 
- 
- 
- 
-nan
-nan
- 
-nan
-nan
-nan
- 
 nan
  
  
  
  
 nan
+nan
+nan
+ 
+ 
 nan
  
  
@@ -247,6 +157,29 @@ nan
  
  
 nan
+nan
+ 
+nan
+nan
+nan
+ 
+nan
+ 
+ 
+ 
+ 
+nan
+nan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nan
  
  
  
@@ -255,6 +188,8 @@ nan
 nan
 nan
  
+nan
+nan
 nan
 nan
 nan
@@ -271,11 +206,13 @@ haters
 nan
 nan
  
+hajatan
 saja
 nan
 rajin
 haji
 tinggi
+hal
 nan
  
  
@@ -287,6 +224,7 @@ nan
 allah
 allah
 hasil
+nan
 aku
 nan
 nan
@@ -294,6 +232,7 @@ nan
 Halloween
 hasil
 halusinasi
+nan
 halo
 halo
 halo
@@ -303,12 +242,14 @@ halus
 halusinasi
  
 halus
+ham
 hama
 hamba
 hamil
 hamil
 hasil
 hamil
+nan
 nan
 nan
 hanya
@@ -332,12 +273,14 @@ hanum
 hanya
 hanya
 hanya
+hanya
 how
 happy
 happy
 happy
 happy
 collect
+happy
 happy
 hakiki
 nan
@@ -370,6 +313,7 @@ harta
 artis
 hartini
 harus
+harusnya
 terharu
 harun
 terharu
@@ -380,6 +324,9 @@ nan
 subhanaallah 
 subhanallah
 hasiat
+hasil
+hasilnya
+hasilnya
 hasil
 hasna
 hasni
@@ -392,8 +339,10 @@ hanya
 nan
 hater
 haters
+hater
 haters
 haters
+hati-hati
 hati
 hati
 hati
@@ -406,6 +355,7 @@ harus
 haters
 hati
 hati
+ucapkan
 nan
 nan
 hawai
@@ -414,9 +364,11 @@ kawin
  
 whatsapp
 nan
+sayang
 hayat
 hayat
 tenang
+nan
 nan
 ayo
 auo
@@ -435,6 +387,7 @@ nan
 hanya
 ayo
 happy birthday
+happy birthday
 hubung
 habis
 hubung
@@ -452,6 +405,9 @@ healthy
 healthy
 happy
 happy
+hebat
+hebat
+hebat
 hebat
 hebat
 hebat
@@ -478,8 +434,13 @@ nan
  
  
 nan
+nan
+nan
  
+nan
+nan
  
+nan
 nan
  
  
@@ -505,12 +466,16 @@ nan
 hebat
 nan
 nan
+nan
+nan
 halo
 halo
 halo
 halo
 Halloween
 hell
+nan
+nan
 nan
 nan
 helm
@@ -531,13 +496,16 @@ nan
 memang
 heni
 nan
+nan
 happy
 happy
+herbal fashion
 herbal fashion
 herbal
 herbal
 herbal shop
 herbal
+herbal store
 herdi
 here
 hari
@@ -551,6 +519,7 @@ haters
 haters
  
  
+nan
 nan
 herbal
 nan
@@ -584,30 +553,34 @@ ayo
  
  
 nan
+nan
  
 hemat
  
- 
-nan
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 nan
  
 nan
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nan
+nan
+ 
+nan
+ 
+nan
 nan
 nan
 nan
@@ -643,7 +616,12 @@ hijriah
 berhijab
 hijab
 hijab
+hijaber cantik
+hijab muslim sproty
+hijab segi empat minat
+hijab
  
+nan
 nan
 nan
 hilang
@@ -664,8 +642,10 @@ hitam
 hitam
 hitung
 nan
+hak
 nan
 lama
+nan
 nan
 nan
 nan
@@ -673,6 +653,9 @@ nan
  
  
 hantu
+hantu
+hanya
+hoax
 nan
 nan
 coba
@@ -704,16 +687,24 @@ nan
 orang
 orang
 horay
+otak
 hot
 nan
+ingin
 goyang
+hp
 bangga
 tidak
 hp
 happy
 tinggal
 follow
+hari
+hrd
 harga
+harapan
+harus
+harusnya
  
  
 haters
@@ -728,6 +719,7 @@ nan
 nan
 nan
 hubungi
+hubungi
 hubby
 hubungan
 hubungi
@@ -736,6 +728,8 @@ hubungi
 whatsapp
 allah
 hujan
+nan
+nan
 nan
 nan
 nan
@@ -760,9 +754,13 @@ hingga
 nan
 nan
 nan
+nan
+nan
 husna
 nan
 nan
+hutang
+hutang
 hutan
 hutan
 hubungi
@@ -785,7 +783,9 @@ nan
 nan
 indonesia
 whatsapp
+nan
 iya
+ingin
 hasil
 habis
 habis

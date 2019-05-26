@@ -51,7 +51,6 @@ def getData(alamat):
         for line in f:
             lineList.append(line.rstrip('\n'))
     return lineList
-
 def read_text(alamat):
     lineList = list()
     with open(alamat, encoding = "ISO-8859-1") as f:
@@ -135,24 +134,11 @@ def new_corpus_r(kata, jm):
         #f=f.split()
         corpus+=f
     return corpus
-def save_gdiganti():
-    with open(dir_path + '/' +"data/g_diganti.txt", "w") as f:
-        for s in g_diganti:
-            f.write(str(s) +"\n")
-            
-    with open(dir_path + '/' +"data/last_use_k.txt", "w") as f:
-        for s in last_use_k:
-            f.write(str(s) +"\n")
-    with open(dir_path + '/' +"data/last_use_r.txt", "w") as f:
-        for s in last_use_r:
-            f.write(str(s) +"\n")
 
-last_use_k = getData('data/last_use_k.txt')
-last_use_r = getData('data/last_use_r.txt')
+
+last_use_k = list()
+last_use_r = list()
 kbbi = getData('data/kata_kbbi_new.txt')
-g_diganti = getData('data/g_diganti.txt')
-
-
 def norm_typo(komentar, jm=3):
     if type(komentar)!=list:
         komentar_split = komentar.split()
@@ -162,7 +148,7 @@ def norm_typo(komentar, jm=3):
         kata_ = new_corpus_k(kt, jm)
         ganti_ = new_corpus_r(kt, jm)
         cek = True
-        if kttr in kbbi or kttr in g_diganti:
+        if kttr in kbbi:
             #print("<<kbbi>>")
             continue
         elif kt in last_use_k or kttr in last_use_k:
@@ -194,7 +180,6 @@ def norm_typo(komentar, jm=3):
                 last_use_r.append(komentar_split[indx])
             else:
                 if cek == True:
-                    g_diganti.append(kt)
                     pass
                     #print("similarity =>",kt,"|",kata_[list_kemiripan.index(max(list_kemiripan))],"=>", str(max(list_kemiripan)))
     ret = re.sub(' +', ' '," ".join(komentar_split))

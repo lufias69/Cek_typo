@@ -1,68 +1,10 @@
 nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-nan
-lancar
-lain
-lagi
-lagu
-lainnya
-laknatullah
-laksanakan
-lakum
-lancar
-lalu
-lapor
-laskar onta
-lebih
-lebih
-libur
-lengket
-lemas
-lagi
-lagi
-langsung
-lihat
-lihatnya
-like for follow
-little
-lillahi taala
-lilalamin
-lip balm
-lip gloss
-live chat
-lagi
-langsung
-kamu
-love
-lemas
-itu
-melimpah
-lucu
-lucu
-saudara
-monyet
-lucu
-life
 love
 alami
 lapak
 nan
 lama
+lancar
 lancar
 langsing
 langsung
@@ -76,6 +18,7 @@ nan
 nan
 gigi
 nan
+lain
 lain
 love
 nan
@@ -92,13 +35,18 @@ lagi
 lagi
 lagi
 lagi
+lagi
 lagu
 lagu
 lagu
 lagu
+lagu
+nan
 jahat
 lahaula
 lagi
+nan
+nan
 nan
 lailahaillah
 lain
@@ -120,30 +68,38 @@ lain
 lain
 lain
 lain
+lainnya
 lain
 lain
 lain
 lain
 ayo
 laju
+nan
 laki-laki
 laki-laki
 laki-laki
 laki-laki
+laknatullah
+laksanakan
 melakukan
+lakum
 laku
 laku
 nan
 lailahaillah
 nan
 nan
+nan
 lailahaillah
+lancar
 lalat
 lupa
 allah
 allah
 allah
 allahu
+lalu
 lama
 lama
 mulut
@@ -189,11 +145,13 @@ rafatar
 lapis
 lapis
 lapor
+lapor
 larang
 lari
 laris
 larry
 rasa
+laskar onta
 last seen
 latar
 latar
@@ -212,6 +170,9 @@ lawak
 layar
 layak
 nan
+lebih
+lebih
+libur
 lea
 lagi
 berlebihan
@@ -234,6 +195,7 @@ lengket
 nan
 lesung
 lengan
+nan
 cebong
 nan
 lelah
@@ -252,6 +214,7 @@ lemon
 lengan
 lengkap
 nan
+lengket
 nan
 lepas
 lepas
@@ -259,19 +222,28 @@ keren
 keren
 luar
 lesu
+lemas
 lets
 letih
 leviana
 lebih
 lagi
 lagi
+lagi
+lagi
+langsung
 langsung
 lagi
 lagu
 nan
 nan
 nan
+nan
+nan
+nan
+nan
  
+nan
 nan
 jangan
 bukti
@@ -286,6 +258,8 @@ lihat
 lihat
 liar
 lisan
+lihat
+lihatnya
 lihat
 lihatnya
 lihatnya
@@ -314,8 +288,12 @@ lisa
 nan
 like for follow
 like
+like for follow
 liku
+little
 lila
+lillahi taala
+lilalamin
 nan
 nan
 nan
@@ -330,6 +308,8 @@ tinggi
 nan
 linu
 lipat
+lip balm
+lip gloss
 lirik
 lirik
 lisa
@@ -339,9 +319,11 @@ lita
 litha
 kulit
 lita
+live chat
 keren
 lama
 langsung
+lagi
 lihatnya
 nan
 nan
@@ -361,12 +343,17 @@ langganan
 langganan
 inggris
 langsung
+langsung
+nan
 nan
 lobby
 lucu
 kamu
+kamu
 logo
+nan
 lohan
+nan
 lohan
 nan
 nan
@@ -382,10 +369,12 @@ longgar
 longgar
 nan
 kamu
+nan
 look
 nan
 love
 lose
+love
 love
 love
 love
@@ -396,15 +385,21 @@ sakit
 love
 love
 kamu
+lemas
 lepas
 nan
 laporan
+itu
+nan
 luang
 lama
 luas
 lubangin
+melimpah
 lubis
 libur
+lucu
+lucu
 lucu
 lucu
 lucu
@@ -429,6 +424,7 @@ kamu
 kamu
 lupa
 love you
+saudara
 lurah
 lord
 lord
@@ -439,15 +435,19 @@ kamu
 lucu
 lucu
 lucu
+monyet
 lucu
 lucu
 lucu
 saudara
+nan
+lucu
 love you
 nan
 via
 via
 iya
+life
 lalu
 lama
 langsung

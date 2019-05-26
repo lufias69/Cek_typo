@@ -1,37 +1,6 @@
 nan
 nan
 nan
-nan
-nan
-nan
-nan
-nan
-nan
-oke
-oke
-okelah
-oke
-oknum
-olshop
-bicara
-ongkir
-on the road
-orang-orang
-orang 22
-order
-orang
-orang
-original
-ormas
-orang
-orang
-orang
-orang tua
-ustadz
-otak
-nan
-nan
-nan
 ajaib
 nan
 nan
@@ -55,17 +24,23 @@ nan
 kerja
 nonton
 oval
+nan
 tidak mau
 tidak mau
 saya
+nan
 selamat pagi
  
 nan
 nan
 nan
+nan
 seperti
 nan
+nan
 ojan
+nan
+oke
 oke
 kasih
 oke
@@ -74,10 +49,14 @@ oke
 oke
 oke
 oke
+okelah
+oke
+oke
 oke
 ok
 oke
 ok
+oknum
 oke
 oke
 oke
@@ -101,10 +80,12 @@ nan
 ol shop
 olshop
 olshop
+olshop
 ol shop
 ol shop
 olshop
 saudara
+nan
 nan
 mahal
 mahal
@@ -112,8 +93,11 @@ nenek
 mong doang
 mandarin
 rekomendasi
+nan
+nan
 oh my god
 nan
+bicara
 kata
 kata
 kata
@@ -121,6 +105,7 @@ nan
 sekali
 gils
 nan
+ongkir
 ongkir
 kakak
 kakak
@@ -131,6 +116,7 @@ nan
 nan
 nan
 tidak
+on the road
 nan
 oke
 oke
@@ -150,6 +136,8 @@ apa
 apps
 oh my god
 orang
+orang-orang
+orang 22
 gigi
 orang
 orang
@@ -158,12 +146,16 @@ orde
 order
 insyaallah
 order
+order
+orang
+orang
 orang
 organic
 organic
 original
 orang tua
 orang
+original
 alhamdulillah
 original
 original
@@ -171,13 +163,20 @@ original
 original
 original
 original
+ormas
+orang
+orang
+orang
 orang
 orang
 order
 order
 orang
+orang tua
 nan
 ustadz
+ustadz
+otak
 otak
 otak
 otak
@@ -191,6 +190,7 @@ outsourcing
 nan
 nan
 oven
+nan
 nan
 nan
 nan
