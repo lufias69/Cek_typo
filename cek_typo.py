@@ -1,8 +1,10 @@
 #from jarowinkler import similarity as sim
 from pyjarowinkler import distance as sim
+from numba import jit
 import pandas as pd
 import os
 import re
+# from numba import cuda
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 #open(dir_path + '/' + 'data.json')
@@ -32,6 +34,7 @@ def load_data():
         for item in replace:
             f.write("%s\n" % item)
 #load_data()
+# @cuda.jit(device=True)
 def reduksi_huruf(kata):
 #kata = 'siiiiiiapaaaa'
     nkata  = list()
@@ -71,10 +74,12 @@ if len(ganti_)!= len(kata_):
     kata_ = getData('data/_kata_.txt')
     ganti_ = getData('data/_replace_.txt')
     print("Load data berhasil")
-    
+
+# @cuda.jit(device=True)  
 def simJaro(kata1,kata2):
     return sim.get_jaro_distance(kata1, kata2, winkler=True, scaling=0.01)
 
+# @cuda.jit(device=True)
 def distinc_huruf(kata, jm=3):
     #kata = just_get_text(kata)
     if len(kata)==0:
@@ -120,6 +125,7 @@ def new_corpus_k(kata, jm):
         #f=f.split()
         corpus+=f
     return corpus
+
 def new_corpus_r(kata, jm):
     corpus = list()
     #if len(kata)==0:
@@ -135,6 +141,7 @@ def new_corpus_r(kata, jm):
         #f=f.split()
         corpus+=f
     return corpus
+# @cuda.jit(device=True)
 def save_gdiganti():
     with open(dir_path + '/' +"data/g_diganti.txt", "w") as f:
         for s in g_diganti:
@@ -157,7 +164,7 @@ last_use_s = getData('data/last_use_s.txt')
 kbbi = getData('data/kata_kbbi_new.txt')
 g_diganti = getData('data/g_diganti.txt')
 
-
+# @cuda.jit(device=True)
 def norm_typo(komentar, jm=3):
     if type(komentar)!=list:
         komentar_split = komentar.split()
@@ -207,4 +214,5 @@ def norm_typo(komentar, jm=3):
                     pass
                     #print("similarity =>",kt,"|",kata_[list_kemiripan.index(max(list_kemiripan))],"=>", str(max(list_kemiripan)))
     ret = re.sub(' +', ' '," ".join(komentar_split))
+    save_gdiganti()
     return ret.strip()
