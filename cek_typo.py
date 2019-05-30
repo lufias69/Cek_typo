@@ -171,6 +171,7 @@ def norm_typo(komentar, jm=3):
     for indx, kt in enumerate(komentar_split):
         kttr = kt
         kt = reduksi_huruf(kt)
+        komentar_split[indx] = kt
         kata_ = new_corpus_k(kt, jm)
         ganti_ = new_corpus_r(kt, jm)
         cek = True
@@ -180,7 +181,7 @@ def norm_typo(komentar, jm=3):
         elif kt in last_use_k or kttr in last_use_k:
             last_use_k_index = last_use_k.index(kt)
             komentar_split[indx] = last_use_r[last_use_k_index]
-            #print("<<last use>>")
+            # print("<<last use>>")
         elif kt in kata_ or kttr in kata_:
             komentar_split[indx]= "" if ganti_[kata_.index(kt)] == 'nan' else ganti_[kata_.index(kt)]
             last_use_k.append(kt)
@@ -214,5 +215,5 @@ def norm_typo(komentar, jm=3):
                     pass
                     #print("similarity =>",kt,"|",kata_[list_kemiripan.index(max(list_kemiripan))],"=>", str(max(list_kemiripan)))
     ret = re.sub(' +', ' '," ".join(komentar_split))
-    save_gdiganti()
+    # save_gdiganti()
     return ret.strip()
