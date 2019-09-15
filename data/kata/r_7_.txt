@@ -1,3 +1,4 @@
+bulan
 700 ribu galaxy
 700 ribu iphone
 700 ribu oppo
@@ -19,7 +20,6 @@ saya
 apps
 7b1d03c3 line
 blok
-bulan
 day
 memang
 nan
@@ -52,3 +52,4 @@ sudah
 sumpah
 tahun
 nan
+ribu
